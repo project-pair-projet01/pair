@@ -1,0 +1,142 @@
+body {
+    background-color:black;
+    margin: auto;
+  }
+  .nav-container {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:white;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 1870px;
+    padding-right: 50px;
+    position: absolute;
+    opacity: 70%;
+    
+  }
+ li .nav-item {
+    padding: 1em;
+    padding-right: 50px;
+   
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: inline-block;
+    color: black;
+    padding-right: 50px;
+    text-align: center;
+    padding: 14px 50px;
+    text-decoration: none;
+    padding: 1em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  
+  li a:hover {
+    background-color: red;
+  }
+  #login{
+    width: 30px; 
+    padding-left: 1890px;
+    padding-bottom: 0px;
+    border-bottom-width: 20px;
+    background-color:black ;
+    position: relative;
+    top: 6%;
+    
+}
+h1{
+    padding-top: 150px;
+    margin-top: 0px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: xx-large;
+    color:darkkhaki
+}
+p{
+  font-size: x-large;
+  color:darkgoldenrod; 
+}
+.myImg1 {
+  border-radius: 5px;
+  cursor: pointer;
+  
+  ;
+}
+
+.myImg1:hover {opacity: 0.7;}
+#logo{
+  position: absolute;
+    height: 112px;
+    width: 144px;
+}
+
+.business{
+  display: grid;
+}
+
+
+
+.input-group{
+  padding-left: 91%;
+  padding-top: 100px;
+}
+
+
+ 
+
+h2{
+  color: darkkhaki;
+}
+
+#panel, #flip {
+  padding: 5px;
+  text-align: center;
+  background-color: #e5eecc;
+  border: solid 1px #c3c3c3;
+  position: absolute;
+    left: 600px;
+    bottom: 150px;
+}
+
+#panel {
+  padding: 50px;
+  display: none;
+  position: absolute;
+  left: 600px;
+  bottom: 37px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+ 
+  
+  
+  
+
+  
+  
+  
+  
